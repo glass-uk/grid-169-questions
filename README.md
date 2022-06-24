@@ -1,7 +1,6 @@
 # grid-169-questions
+[Customized LeetCode study plans according to your needs.](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=6)
 
-Customized LeetCode study plans according to your needs.
-https://www.techinterviewhandbook.org/grind75?weeks=26&hours=6
 
 ## Time Needed
 
