@@ -1,4 +1,4 @@
-# grid-169-questions
+# grind-169-questions
 [Customized LeetCode study plans according to your needs.](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=6)
 
 
